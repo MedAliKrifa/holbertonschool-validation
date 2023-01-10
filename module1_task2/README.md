@@ -1,10 +1,10 @@
-Module 1: Introduction to DevOps: Automate Everything to Focus on What Really Matters
-Prerequisites
-Lifecycle
+# Module 1: Introduction to DevOps: Automate Everything to Focus on What Really Matters
+## Prerequisites
 
-    build
-    clean
-    post
-    help
+## Lifecycle
+- build
+- clean
+- post
+- help
 
-steps
+## steps
